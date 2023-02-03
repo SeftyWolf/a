@@ -143,7 +143,7 @@
   background: linear-gradient(#e8e8e8,#cccccc);
 }
 .chat-2ZfjoI form:not(.form-25Aujy), .threadSidebarOpen-1LSXvU form, .container-3-fC9N form, .form-3gdLxP {
-  background-image: url(https://saltssaumure.github.io/xp-discord-theme/img/bliss.jpg);
+  background-image: linear-gradient(#35363a,#2b2c2d 50%,#1e2023 50%, #131517);
   margin-left: 0px;
   margin-right: 0px;
   padding-left: 20px;
@@ -156,7 +156,7 @@
   padding-right: 0;
 }
 .theme-light .messagesWrapper-RpOMA3+div:not([class]), .theme-light .chat-2ZfjoI form:not(.form-25Aujy), .theme-light .threadSidebarOpen-1LSXvU form, .theme-light .container-3-fC9N form {
-  background-image: url(https://saltssaumure.github.io/xp-discord-theme/img/bliss.jpg);
+  background-image: linear-gradient(#ffffff,#f8f8f8 50%,#ececec 50%, #f0f0f0);
   box-shadow: inset 0 2px #0003
 }
 .scrollableContainer-15eg7h {
